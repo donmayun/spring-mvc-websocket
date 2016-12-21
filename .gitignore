@@ -1,7 +1,3 @@
-/target/
-/.externalToolBuilders/
+
 /.idea/
-/.settings/
-/.classpath
-/.project
-/ciyco.iml
+/webSocket.iml
